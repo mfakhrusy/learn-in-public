@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "41969a8e7cb152d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "db218e2ee2cf4871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d637e857092095d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Elements of Reinforcement Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28078197477fffde",
+    "type": "split",
+    "children": [
+      {
+        "id": "989816e7d25e8430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ce0d002a327c1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7efa6fe2f2001f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b50ebe59d072021b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20d30490ce1b0d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "617f828360516571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8311cb6f6f8e5c3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.3 Elements of Reinforcement Learning"
+            }
+          },
+          {
+            "id": "c60e6b8b2f68852b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.3 Elements of Reinforcement Learning"
+            }
+          },
+          {
+            "id": "ec843cd599a7fca4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58d2e6fbc1ed663f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.3 Elements of Reinforcement Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d637e857092095d",
+  "lastOpenFiles": [
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.2 Examples.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.1 Reinforcement Learning.md",
+    "Reinforcement Learning/Sequential Decision Problem.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/The World (2) -- uncertainty in grid world.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/1/Untitled",
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction",
+    "Reinforcement Learning/Sutton RL 2nd ed",
+    "Reinforcement Learning/Decision Making",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511152413.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/The World (1) -- grid world.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151906.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Decision Making & Reinforcement Learning.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151639.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151246.png",
+    "Untitled.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus",
+    "Reinforcement Learning/OMSCS lecture videos",
+    "Reinforcement Learning"
+  ]
+}
