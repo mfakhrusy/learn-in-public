@@ -11,17 +11,30 @@
             "id": "3d637e857092095d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Reinforcement Learning/Markov Decision Process/Pasted image 20250513095808.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250513095808"
+            }
+          },
+          {
+            "id": "7ce07fa2e1092b70",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Elements of Reinforcement Learning"
+              "title": "MDP video computerphile"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.3 Elements of Reinforcement Learning"
+              "title": "Backlinks for MDP video computerphile"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.3 Elements of Reinforcement Learning"
+              "title": "Outgoing links from MDP video computerphile"
             }
           },
           {
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.3 Elements of Reinforcement Learning"
+              "title": "Outline of MDP video computerphile"
             }
           }
         ]
@@ -168,12 +181,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d637e857092095d",
+  "active": "7ce07fa2e1092b70",
   "lastOpenFiles": [
-    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.2 Examples.md",
+    "Reinforcement Learning/bellman equation.md",
+    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513095808.png",
+    "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
+    "Reinforcement Learning/Markov Decision Process/Markov Decision Process (summary).md",
+    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513061112.png",
+    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513061023.png",
+    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513060826.png",
+    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513061048.png",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Pasted image 20250513053958.png",
+    "Reinforcement Learning/Markov Decision Process",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.1 The Agent-Environment Interface.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.0 Intro.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.7 Early History of RL.md",
+    "Reinforcement Learning/Bandit Problem.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process",
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.6 Summary.md",
     "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.4 Limitations and Scope.md",
     "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.1 Reinforcement Learning.md",
     "Reinforcement Learning/Sequential Decision Problem.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.2 Examples.md",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/The World (2) -- uncertainty in grid world.md",
     "Reinforcement Learning/Sutton RL 2nd ed/1/Untitled",
     "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction",
@@ -185,7 +215,6 @@
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Decision Making & Reinforcement Learning.md",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151639.png",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151246.png",
-    "Untitled.md",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus",
     "Reinforcement Learning/OMSCS lecture videos",
     "Reinforcement Learning"
