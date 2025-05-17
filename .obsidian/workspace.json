@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/18. Policies - 1.md",
+                "file": "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/23. Finding Policies - 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Policies - 1"
+              "title": "23. Finding Policies - 4"
             }
           }
         ],
@@ -235,23 +235,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6907db502149cec2",
+  "active": "a8ce0d002a327c1c",
   "lastOpenFiles": [
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515021154.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515021211.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517134327.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517134024.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517133900.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517133636.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/22. Finding Policies - 3.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/23. Finding Policies - 4.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517133152.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517132755.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517125349.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/21. Finding Policies - 2.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/20. Finding Policies - 1.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/15. Sequence of Rewards - 3.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517125314.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517124220.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517123944.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250517123722.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/19. Policies - 2.md",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/18. Policies - 1.md",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515021043.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020900.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020728.png",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/17. Assumptions.md",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020455.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020407.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515015829.png",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/6. Markov Decision Processes - 1.md",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/16. Sequence of Rewards - 4.md",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515015243.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515015030.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/15. Sequence of Rewards - 3.md",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/11. More About Rewards - 2.md",
     "Untitled",
     "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/14. Sequence of Rewards - 2.md",
@@ -268,11 +274,6 @@
     "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.7 Optimality and Approximation.md",
     "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.6 Optimal Policies and Optimal Value Functions.md",
     "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.5 Policies and Value Functions.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.4 Unified Notation for Episodic and Continuing Tasks.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.3 Returns and Episodes.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.2 Goal and Rewards.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Equations/3.4 - 3.6.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.7 Early History of RL.md",
     "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Untitled",
     "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Exercise",
     "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Equations",
