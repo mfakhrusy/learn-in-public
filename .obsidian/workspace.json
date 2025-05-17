@@ -25,16 +25,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
+                "file": "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/13. Sequence of Rewards - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MDP video computerphile"
+              "title": "13. Sequence of Rewards - 1"
+            }
+          },
+          {
+            "id": "7382f9ef66d5c5c4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250514230630.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250514230630"
+            }
+          },
+          {
+            "id": "72739f3953444bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/6. Markov Decision Processes - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Markov Decision Processes - 1"
+            }
+          },
+          {
+            "id": "176989fd4f252196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/17. Assumptions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Assumptions"
+            }
+          },
+          {
+            "id": "6907db502149cec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/18. Policies - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Policies - 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -107,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
+                "file": "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.2 Goal and Rewards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MDP video computerphile"
+              "title": "Backlinks for 3.2 Goal and Rewards"
             }
           },
           {
@@ -126,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
+                "file": "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.2 Goal and Rewards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MDP video computerphile"
+              "title": "Outgoing links from 3.2 Goal and Rewards"
             }
           },
           {
@@ -155,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
+                "file": "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.2 Goal and Rewards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MDP video computerphile"
+              "title": "Outline of 3.2 Goal and Rewards"
             }
           }
         ]
@@ -181,42 +235,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ce07fa2e1092b70",
+  "active": "6907db502149cec2",
   "lastOpenFiles": [
-    "Reinforcement Learning/bellman equation.md",
-    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513095808.png",
-    "Reinforcement Learning/Markov Decision Process/MDP video computerphile.md",
-    "Reinforcement Learning/Markov Decision Process/Markov Decision Process (summary).md",
-    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513061112.png",
-    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513061023.png",
-    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513060826.png",
-    "Reinforcement Learning/Markov Decision Process/Pasted image 20250513061048.png",
-    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Pasted image 20250513053958.png",
-    "Reinforcement Learning/Markov Decision Process",
-    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.1 The Agent-Environment Interface.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.0 Intro.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515021154.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515021211.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/18. Policies - 1.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515021043.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020900.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020728.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/17. Assumptions.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020455.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515020407.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515015829.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/6. Markov Decision Processes - 1.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/16. Sequence of Rewards - 4.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515015243.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250515015030.png",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/15. Sequence of Rewards - 3.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/11. More About Rewards - 2.md",
+    "Untitled",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/14. Sequence of Rewards - 2.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/13. Sequence of Rewards - 1.md",
+    "Reinforcement Learning/Stationary Preferences (in MDP).md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/10. More About Rewards - 1.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/12. More About Rewards - 3.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/9. Markov Decision Processes - 4.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/8. Markov Decision Processes - 3.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/7. Markov Decision Processes - 2.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/5. The World (2) -- uncertainty in grid world.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/4. The World (1) -- grid world.md",
+    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/3. Decision Making & Reinforcement Learning.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.7 Optimality and Approximation.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.6 Optimal Policies and Optimal Value Functions.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.5 Policies and Value Functions.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.4 Unified Notation for Episodic and Continuing Tasks.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.3 Returns and Episodes.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/3.2 Goal and Rewards.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Equations/3.4 - 3.6.md",
     "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.7 Early History of RL.md",
-    "Reinforcement Learning/Bandit Problem.md",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Untitled",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Exercise",
+    "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process/Equations",
+    "Reinforcement Learning/Markov Decision Process",
     "Reinforcement Learning/Sutton RL 2nd ed/3 Finite Markov Decision Process",
-    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.6 Summary.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.3 Elements of Reinforcement Learning.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.4 Limitations and Scope.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.1 Reinforcement Learning.md",
-    "Reinforcement Learning/Sequential Decision Problem.md",
-    "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction/1.2 Examples.md",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/The World (2) -- uncertainty in grid world.md",
     "Reinforcement Learning/Sutton RL 2nd ed/1/Untitled",
     "Reinforcement Learning/Sutton RL 2nd ed/1 Introduction",
     "Reinforcement Learning/Sutton RL 2nd ed",
-    "Reinforcement Learning/Decision Making",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511152413.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/The World (1) -- grid world.md",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151906.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Decision Making & Reinforcement Learning.md",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151639.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus/Pasted image 20250511151246.png",
-    "Reinforcement Learning/OMSCS lecture videos/Smoov & Curly's Bogus",
-    "Reinforcement Learning/OMSCS lecture videos",
-    "Reinforcement Learning"
+    "Reinforcement Learning/Decision Making"
   ]
 }
