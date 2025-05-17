@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=2iF9PRriA7w
 
-![[Pasted image 20250513060826.png]]
+![](Reinforcement%20Learning/Markov%20Decision%20Process/Pasted%20image%2020250517140150.png)
 
 above is an example of decision making
 
